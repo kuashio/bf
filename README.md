@@ -1,4 +1,4 @@
-# Brainfuino [-]+
+# Brainfuino [-]+.
 An Arduino competitor that runs native brainfuck! I've condensed the explanation in this video: https://youtu.be/QloNq8AoHvU
 
 <img src="./docs/imgs/bfboard2.png" alt="The Brainfuino [-]+." style="zoom:50%;" />
@@ -7,7 +7,7 @@ Before going further, please make sure you know (or remember) what brainfuck is.
 
 Also, before moving forward: This is not a joke. It ***is*** about a joke programming language, but a joke lots of nerds are very fond of. When I say nerds, I mean real geeks: Not gamers or technophiles, but geeks who like to read [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) just for kicks!
 
-The Brainfuino [-]+ (pronounced "Brainfuino Uno") is a development board for a brainfuck soft processor I wrote in Verilog, named ***brainfuck_uP*** (as in "brainfuck microprocessor"), which runs brainfuck code natively, that is, the plain text of a brainfuck source file, yes, ascii characters.
+The Brainfuino [-]+. (pronounced "Brainfuino Uno") is a development board for a brainfuck soft processor I wrote in Verilog, named ***brainfuck_uP*** (as in "brainfuck microprocessor"), which runs brainfuck code natively, that is, the plain text of a brainfuck source file, yes, ascii characters.
 
 Here are some details:
 
