@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-10-16T04:40:43Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "BrainFuino"
+        },
+        "Owner": "Eduardo Corpeo <ecorp@galileo.edu>",
+        "Size": {
+            "X": 68.58,
+            "Y": 53.34
+        }
+    }
+}
