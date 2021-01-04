@@ -3,6 +3,8 @@ An Arduino competitor that runs native brainfuck!
 
 I've condensed the explanation in this video: https://youtu.be/QloNq8AoHvU
 
+![The Brainfuino [-]+](./docs/imgs/bfboard2.png)
+
 Before going further, please make sure you know (or remember) what brainfuck is. [Here's Wikipedia's entry as a refresher](https://en.wikipedia.org/wiki/Brainfuck).
 
 Also, before moving forward: This is not a joke. It ***is*** about a joke programming language, but a joke lots of nerds are very fond of. When I say nerds, I mean real geeks: Not gamers or technophiles, but geeks who like to read [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) just for kicks!
