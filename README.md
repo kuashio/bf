@@ -1,7 +1,5 @@
 # Brainfuino [-]+
-An Arduino competitor that runs native brainfuck! 
-
-I've condensed the explanation in this video: https://youtu.be/QloNq8AoHvU
+An Arduino competitor that runs native brainfuck! I've condensed the explanation in this video: https://youtu.be/QloNq8AoHvU
 
 ![The Brainfuino [-]+](./docs/imgs/bfboard2.png)
 
