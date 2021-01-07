@@ -48,7 +48,7 @@ There are three computer languages involved. Only the first one is really intend
 - [brainfuck_uP](https://github.com/kuashio/brainfuck_up). The soft processor running on the Brainfuino.
 - [Brainfuino MCU firmware](https://github.com/kuashio/brainfuino-firmware). The firmware running in the STM32F072 MCU.
 
-- Visual brainfuck. A brainfuck IDE I finished back in 2011.
+- [Visual brainfuck](https://sites.google.com/site/visualbf/). A brainfuck IDE I finished back in 2011.
 
 
 ## Contact
