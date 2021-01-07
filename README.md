@@ -53,5 +53,7 @@ There are three computer languages involved. Only the first one is really intend
 
 ## Contact
 
+Eduardo Corpeño
+
 For bug report or anything related to Brainfuino, I may be reached at kuashio@gmail.com 
 
