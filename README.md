@@ -7,7 +7,7 @@ Before going further, please make sure you know (or remember) what brainfuck is.
 
 Also, before moving forward: This is not a joke. It ***is*** about a joke programming language, but a joke lots of nerds are very fond of. When I say nerds, I mean real geeks: Not gamers or technophiles, but geeks who like to read [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) just for kicks!
 
-The Brainfuino [-]+. (pronounced "Brainfuino Uno") is a development board for a brainfuck soft processor I wrote in Verilog, named ***brainfuck_uP*** (as in "brainfuck microprocessor"), which runs brainfuck code natively, that is, the plain text of a brainfuck source file, yes, ascii characters.
+The Brainfuino [-]+. (pronounced "Brainfuino Uno") is a development board for a brainfuck soft processor I wrote in Verilog, named [***brainfuck_uP***](https://github.com/kuashio/brainfuck_uP) (as in "brainfuck microprocessor"), which runs brainfuck code natively, that is, the plain text of a brainfuck source file, yes, ascii characters.
 
 Here are some details:
 
@@ -46,7 +46,7 @@ There are three computer languages involved. Only the first one is really intend
 ## Related Projects
 
 - [brainfuck_uP](https://github.com/kuashio/brainfuck_up). The soft processor running on the Brainfuino.
-- Brainfuino MCU firmware. The firmware running in the STM32F072 MCU.
+- [Brainfuino MCU firmware](https://github.com/kuashio/brainfuino-firmware). The firmware running in the STM32F072 MCU.
 
 - Visual brainfuck. A brainfuck IDE I finished back in 2011.
 
